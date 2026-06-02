@@ -17,6 +17,9 @@ Formado pela Etec de Mauá e cursando Bacharelado em Tecnologia da Informação 
 
 **Site de Receitas com IA** — Plataforma que gera receitas personalizadas com inteligência artificial com base nos ingredientes disponíveis do usuário. Desenvolvido com Django, PostgreSQL, Supabase, Tailwind CSS e LLaMA via Groq.
 
+🔗 Repositório final:
+https://github.com/Gab-sousa/recette-web
+
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/samuelsce)
