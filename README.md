@@ -37,7 +37,7 @@ Apaixonado por desenvolvimento web e sempre em busca de aprender novas tecnologi
 
 Plataforma que gera receitas personalizadas com inteligência artificial, com base nos ingredientes disponíveis do usuário.
 
-**Stack:** Django · PostgreSQL · Supabase · Tailwind CSS · LLaMA via Groq
+**Stack:** Tailwind · JavaScript · Django · PostgreSQL · Supabase · Tailwind CSS · LLaMA via Groq
 
 🔗 **Repositório:** [recette-web](https://github.com/Gab-sousa/recette-web)
 
