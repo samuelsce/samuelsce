@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Samuel Santos Cerqueira
+# Olá, eu sou o Samuel Santos Cerqueira
 
 ### Front-end Developer | Técnico em Desenvolvimento de Sistemas
 
@@ -40,18 +40,6 @@ Plataforma que gera receitas personalizadas com inteligência artificial, com ba
 **Stack:** Django · PostgreSQL · Supabase · Tailwind CSS · LLaMA via Groq
 
 🔗 **Repositório:** [recette-web](https://github.com/Gab-sousa/recette-web)
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelsce&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsce&layout=compact)
-
-</div>
-
 
 ---
 
