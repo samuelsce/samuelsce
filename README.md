@@ -52,7 +52,6 @@ Plataforma que gera receitas personalizadas com inteligência artificial, com ba
 
 </div>
 
-> 💡 Se o seu usuário do GitHub for diferente de `samuelsce`, é só me avisar que eu ajusto os links das estatísticas acima.
 
 ---
 
