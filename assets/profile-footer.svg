@@ -1,0 +1,16 @@
+<svg width="1200" height="88" viewBox="0 0 1200 88" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rodapé do perfil</title>
+  <desc id="desc">Linha minimalista com mensagem de aprendizado contínuo.</desc>
+  <defs>
+    <linearGradient id="line" x1="120" y1="0" x2="1080" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30343B" stop-opacity="0"/>
+      <stop offset="0.3" stop-color="#30343B"/>
+      <stop offset="0.5" stop-color="#D99A36"/>
+      <stop offset="0.7" stop-color="#30343B"/>
+      <stop offset="1" stop-color="#30343B" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M120 22H1080" stroke="url(#line)"/>
+  <text x="600" y="59" text-anchor="middle" fill="#777E89" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="13" letter-spacing="1.4">APRENDENDO • CONSTRUINDO • EVOLUINDO</text>
+</svg>
+

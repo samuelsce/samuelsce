@@ -1,0 +1,39 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Santos Cerqueira — Desenvolvedor Front-End</title>
+  <desc id="desc">Banner minimalista em tons de grafite, branco e âmbar.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0C0F"/>
+      <stop offset="0.55" stop-color="#101318"/>
+      <stop offset="1" stop-color="#0B0D10"/>
+    </linearGradient>
+    <linearGradient id="softGlow" x1="680" y1="45" x2="1110" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D99A36" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#D99A36" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="17.25" stroke="#292D34" stroke-width="1.5"/>
+  <ellipse cx="935" cy="132" rx="330" ry="210" fill="url(#softGlow)"/>
+
+  <rect x="78" y="72" width="4" height="156" rx="2" fill="#D99A36"/>
+
+  <g font-family="Inter, 'Segoe UI', Arial, sans-serif">
+    <text x="112" y="130" fill="#F4F1EA" font-size="45" font-weight="700" letter-spacing="0.2">Samuel Santos Cerqueira</text>
+    <text x="113" y="173" fill="#B7BCC5" font-size="21" font-weight="400" letter-spacing="0.8">Desenvolvimento Front-End</text>
+    <text x="113" y="215" fill="#D99A36" font-size="16" font-weight="500" letter-spacing="1">React.js  •  TypeScript  •  Next.js  •  Tailwind CSS</text>
+  </g>
+
+  <g transform="translate(1035 67)">
+    <circle cx="0" cy="0" r="4" fill="#D99A36">
+      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="16" y="5" fill="#777E89" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="1.2">OPEN TO WORK</text>
+  </g>
+
+  <line x1="878" y1="232" x2="1122" y2="232" stroke="#252931"/>
+  <line x1="878" y1="232" x2="970" y2="232" stroke="#D99A36" stroke-width="2">
+    <animate attributeName="x2" values="970;1122;970" dur="6s" repeatCount="indefinite"/>
+  </line>
+</svg>
