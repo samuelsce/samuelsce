@@ -176,3 +176,4 @@ samuel@frontend:~$ _
 <p align="center">
   <img src="./assets/system-footer.svg" width="100%" alt="Fim da transmissão — perfil de Samuel Santos Cerqueira" />
 </p>
+
