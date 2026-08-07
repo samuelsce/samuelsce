@@ -111,13 +111,10 @@ Busco minha primeira oportunidade como **estagiário de desenvolvimento** ou **F
 </p>
 
 <details>
-  <summary><strong>Mais estatísticas</strong></summary>
+  <summary><strong>Ver gráfico de atividade</strong></summary>
   <br>
   <p align="center">
     <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samuelsce&bg_color=0D1117&color=8B949E&line=D99A36&point=E6EDF3&area=true&area_color=D99A36&hide_border=false&border_color=30363D&radius=8&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Gráfico de atividade" />
-  </p>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=samuelsce&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=6&row=1" alt="Troféus do GitHub" />
   </p>
 </details>
 
