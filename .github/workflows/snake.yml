@@ -22,8 +22,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23f59e0b&color_dots=%23ebedf0,%23fef3c7,%23fcd34d,%23f59e0b,%23d97706
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23f59e0b&color_dots=%2311161f,%2327303d,%239a6700,%23d97706,%23f59e0b
+            dist/github-contribution-grid-snake.svg?color_snake=%23d99a36&color_dots=%23ebedf0,%23f3ead9,%23e5c78e,%23d99a36,%23aa7425
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23d99a36&color_dots=%230d1117,%2321282f,%235c4827,%23946a2b,%23d99a36
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -32,4 +32,3 @@ jobs:
           branch: output
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
