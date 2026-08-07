@@ -102,8 +102,8 @@ Busco minha primeira oportunidade como **estagiário de desenvolvimento** ou **F
 ## GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=samuelsce&show_icons=true&include_all_commits=true&rank_icon=github&locale=pt-br&bg_color=0D1117&title_color=D99A36&text_color=C9D1D9&icon_color=D99A36&border_color=30363D&border_radius=8" alt="Estatísticas do GitHub de Samuel" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelsce&layout=compact&langs_count=8&locale=pt-br&bg_color=0D1117&title_color=D99A36&text_color=C9D1D9&border_color=30363D&border_radius=8" alt="Linguagens mais utilizadas por Samuel" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=samuelsce&theme=github_dark&title_color=d99a36&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=d99a36" alt="Estatísticas do GitHub de Samuel" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelsce&theme=github_dark&title_color=d99a36&text_color=c9d1d9&bg_color=0d1117&border_color=30363d&icon_color=d99a36" alt="Linguagens mais utilizadas por Samuel" />
 </p>
 
 <p align="center">
@@ -139,4 +139,3 @@ Busco minha primeira oportunidade como **estagiário de desenvolvimento** ou **F
 <p align="center">
   <img src="./assets/profile-footer.svg" width="100%" alt="Rodapé do perfil de Samuel Santos Cerqueira" />
 </p>
-
