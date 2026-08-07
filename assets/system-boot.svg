@@ -1,0 +1,83 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">System Boot — Samuel Santos Cerqueira</title>
+  <desc id="desc">Banner futurista escuro inspirado em uma interface de inteligência artificial.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#080B0F"/>
+      <stop offset="0.5" stop-color="#0B0F14"/>
+      <stop offset="1" stop-color="#0E1218"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="85" y1="0" x2="1115" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#F59E0B"/>
+      <stop offset="0.72" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#24303D" stroke-width="1" stroke-opacity="0.32"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="panelClip"><rect x="30" y="24" width="1140" height="312" rx="18"/></clipPath>
+  </defs>
+
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect x="1" y="1" width="1198" height="358" rx="19" stroke="#27303D" stroke-width="2"/>
+  <rect x="30" y="24" width="1140" height="312" rx="18" fill="url(#grid)"/>
+  <rect x="30.5" y="24.5" width="1139" height="311" rx="17.5" stroke="#27303D"/>
+
+  <g opacity="0.65">
+    <path d="M30 82H1170" stroke="#27303D"/>
+    <path d="M228 24V82M972 24V82" stroke="#27303D"/>
+  </g>
+
+  <g font-family="'JetBrains Mono', 'Segoe UI Mono', Consolas, monospace">
+    <text x="58" y="59" fill="#7D8590" font-size="14" letter-spacing="2">SYS://PROFILE_INTERFACE</text>
+    <text x="1002" y="59" fill="#38BDF8" font-size="14" letter-spacing="1.5">ONLINE</text>
+    <circle cx="1136" cy="54" r="5" fill="#38BDF8" filter="url(#glow)">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+
+    <g opacity="1">
+      <set attributeName="opacity" to="0" begin="0s" dur="0.15s"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.15s" fill="freeze"/>
+      <text x="72" y="122" fill="#F59E0B" font-size="14" letter-spacing="4">SYSTEM BOOT // IDENTITY CONFIRMED</text>
+    </g>
+
+    <g opacity="1">
+      <set attributeName="opacity" to="0" begin="0s" dur="0.65s"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.65s" fill="freeze"/>
+      <text x="70" y="193" fill="#F2E9DA" font-family="'Segoe UI', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="0.5">Samuel Santos Cerqueira</text>
+    </g>
+
+    <g opacity="1">
+      <set attributeName="opacity" to="0" begin="0s" dur="1.15s"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.5s" begin="1.15s" fill="freeze"/>
+      <text x="73" y="235" fill="#C9D1D9" font-size="20" letter-spacing="1.5">FRONT-END DEVELOPER  //  LEARNING  //  BUILDING</text>
+    </g>
+
+    <g opacity="1">
+      <set attributeName="opacity" to="0" begin="0s" dur="1.6s"/>
+      <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="1.6s" fill="freeze"/>
+      <text x="73" y="288" fill="#7D8590" font-size="14" letter-spacing="1.2">OPPORTUNITY_MODE</text>
+      <text x="245" y="288" fill="#38BDF8" font-size="14" font-weight="700" letter-spacing="1.2">ACTIVE</text>
+      <text x="892" y="288" fill="#7D8590" font-size="14" letter-spacing="1.2">SP • BRAZIL</text>
+    </g>
+  </g>
+
+  <rect x="72" y="313" width="1056" height="2" rx="1" fill="#1F2933"/>
+  <rect x="72" y="313" width="1056" height="2" rx="1" fill="url(#accent)">
+    <set attributeName="width" to="0" begin="0s" dur="0.2s"/>
+    <animate attributeName="width" from="0" to="1056" dur="2.2s" begin="0.2s" fill="freeze"/>
+  </rect>
+
+  <g clip-path="url(#panelClip)" opacity="0.18">
+    <rect x="30" y="-60" width="1140" height="70" fill="url(#accent)">
+      <animate attributeName="y" from="-70" to="360" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <path d="M30 58V42C30 32.059 38.059 24 48 24H64M1136 24H1152C1161.94 24 1170 32.059 1170 42V58M30 302V318C30 327.941 38.059 336 48 336H64M1136 336H1152C1161.94 336 1170 327.941 1170 318V302" stroke="#F59E0B" stroke-width="2"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1200" height="130" viewBox="0 0 1200 130" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Fim da transmissão</title>
+  <desc id="desc">Rodapé futurista do perfil de Samuel Santos Cerqueira.</desc>
+  <defs>
+    <linearGradient id="line" x1="55" y1="0" x2="1145" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F59E0B" stop-opacity="0"/>
+      <stop offset="0.28" stop-color="#F59E0B"/>
+      <stop offset="0.72" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="130" rx="18" fill="#0B0F14"/>
+  <rect x="1" y="1" width="1198" height="128" rx="17" stroke="#27303D" stroke-width="2"/>
+  <path d="M55 35H1145" stroke="url(#line)" stroke-width="2"/>
+  <g font-family="'JetBrains Mono', 'Segoe UI Mono', Consolas, monospace" text-anchor="middle">
+    <text x="600" y="72" fill="#F2E9DA" font-size="17" letter-spacing="3">END OF TRANSMISSION</text>
+    <text x="600" y="101" fill="#7D8590" font-size="12" letter-spacing="2">BUILDING THE NEXT INTERFACE // ONE COMMIT AT A TIME</text>
+  </g>
+  <circle cx="565" cy="36" r="3" fill="#F59E0B"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="600" cy="36" r="3" fill="#F59E0B"><animate attributeName="opacity" values="0.2;1;0.2" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="635" cy="36" r="3" fill="#38BDF8"><animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite"/></circle>
+</svg>
+
