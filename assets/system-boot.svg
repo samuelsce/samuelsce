@@ -8,8 +8,8 @@
       <stop offset="1" stop-color="#0E1218"/>
     </linearGradient>
     <linearGradient id="accent" x1="85" y1="0" x2="1115" y2="0" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#F59E0B" stop-opacity="0"/>
-      <stop offset="0.18" stop-color="#F59E0B"/>
+      <stop stop-color="#A78BFA" stop-opacity="0"/>
+      <stop offset="0.18" stop-color="#A78BFA"/>
       <stop offset="0.72" stop-color="#38BDF8"/>
       <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
     </linearGradient>
@@ -43,13 +43,13 @@
     <g opacity="1">
       <set attributeName="opacity" to="0" begin="0s" dur="0.15s"/>
       <animate attributeName="opacity" from="0" to="1" dur="0.45s" begin="0.15s" fill="freeze"/>
-      <text x="72" y="122" fill="#F59E0B" font-size="14" letter-spacing="4">SYSTEM BOOT // IDENTITY CONFIRMED</text>
+      <text x="72" y="122" fill="#A78BFA" font-size="14" letter-spacing="4">SYSTEM BOOT // IDENTITY CONFIRMED</text>
     </g>
 
     <g opacity="1">
       <set attributeName="opacity" to="0" begin="0s" dur="0.65s"/>
       <animate attributeName="opacity" from="0" to="1" dur="0.55s" begin="0.65s" fill="freeze"/>
-      <text x="70" y="193" fill="#F2E9DA" font-family="'Segoe UI', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="0.5">Samuel Santos Cerqueira</text>
+      <text x="70" y="193" fill="#F1F5FC" font-family="'Segoe UI', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="0.5">Samuel Santos Cerqueira</text>
     </g>
 
     <g opacity="1">
@@ -79,5 +79,5 @@
     </rect>
   </g>
 
-  <path d="M30 58V42C30 32.059 38.059 24 48 24H64M1136 24H1152C1161.94 24 1170 32.059 1170 42V58M30 302V318C30 327.941 38.059 336 48 336H64M1136 336H1152C1161.94 336 1170 327.941 1170 318V302" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M30 58V42C30 32.059 38.059 24 48 24H64M1136 24H1152C1161.94 24 1170 32.059 1170 42V58M30 302V318C30 327.941 38.059 336 48 336H64M1136 336H1152C1161.94 336 1170 327.941 1170 318V302" stroke="#A78BFA" stroke-width="2"/>
 </svg>

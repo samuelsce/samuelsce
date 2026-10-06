@@ -1,39 +1,43 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Samuel Santos Cerqueira — Desenvolvedor Front-End</title>
-  <desc id="desc">Banner minimalista em tons de grafite, branco e âmbar.</desc>
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Samuel Santos Cerqueira — Desenvolvimento Front-End</title>
+  <desc id="desc">Banner azul profundo com detalhes ciano e violeta. Interfaces que conectam ideia e experiência. Composição abstrata de janelas e conexões à direita.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#0A0C0F"/>
-      <stop offset="0.55" stop-color="#101318"/>
-      <stop offset="1" stop-color="#0B0D10"/>
-    </linearGradient>
-    <linearGradient id="softGlow" x1="680" y1="45" x2="1110" y2="250" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#D99A36" stop-opacity="0.13"/>
-      <stop offset="1" stop-color="#D99A36" stop-opacity="0"/>
-    </linearGradient>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#151D36"/></linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="1128" y2="0" gradientUnits="userSpaceOnUse"><stop stop-color="#67E8F9"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#7C3AED" stop-opacity="0.16"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8292B5" fill-opacity="0.16"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="360" rx="24"/></clipPath>
   </defs>
-
-  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
-  <rect x="0.75" y="0.75" width="1198.5" height="298.5" rx="17.25" stroke="#292D34" stroke-width="1.5"/>
-  <ellipse cx="935" cy="132" rx="330" ry="210" fill="url(#softGlow)"/>
-
-  <rect x="78" y="72" width="4" height="156" rx="2" fill="#D99A36"/>
-
-  <g font-family="Inter, 'Segoe UI', Arial, sans-serif">
-    <text x="112" y="130" fill="#F4F1EA" font-size="45" font-weight="700" letter-spacing="0.2">Samuel Santos Cerqueira</text>
-    <text x="113" y="173" fill="#B7BCC5" font-size="21" font-weight="400" letter-spacing="0.8">Desenvolvimento Front-End</text>
-    <text x="113" y="215" fill="#D99A36" font-size="16" font-weight="500" letter-spacing="1">React.js  •  TypeScript  •  Next.js  •  Tailwind CSS</text>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="360" fill="url(#bg)"/>
+    <rect x="760" width="440" height="360" fill="url(#grid)"/>
+    <ellipse cx="1000" cy="180" rx="320" ry="270" fill="url(#glow)"/>
+    <path d="M72 304H1128" stroke="#2A3654"/>
+    <path d="M72 304H328" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+    <g font-family="'Segoe UI', Arial, sans-serif">
+      <text x="72" y="76" fill="#67E8F9" font-size="13" font-weight="600" letter-spacing="3">DESENVOLVIMENTO FRONT-END</text>
+      <text x="70" y="148" fill="#F1F5FC" font-size="46" font-weight="700" letter-spacing="-1">Samuel Santos Cerqueira</text>
+      <text x="72" y="193" fill="#CBD5E1" font-size="21">Interfaces que conectam ideia e experiência.</text>
+      <text x="72" y="250" fill="#A7B6D0" font-size="15" letter-spacing="0.5">REACT / TYPESCRIPT / NEXT.JS</text>
+      <text x="72" y="332" fill="#93A4C3" font-size="12" letter-spacing="1.2">SÃO PAULO, BRASIL</text>
+      <text x="1128" y="332" text-anchor="end" fill="#C4B5FD" font-size="12" letter-spacing="1.2">IDEIA → INTERFACE → EXPERIÊNCIA</text>
+    </g>
+    <g transform="translate(830 57)">
+      <path d="M36 74L202 25L295 178L119 219Z" stroke="#A78BFA" stroke-opacity="0.28"/>
+      <rect x="32" y="14" width="240" height="160" rx="14" fill="#141D34" stroke="#687AA8" stroke-opacity="0.5" transform="rotate(8 152 94)"/>
+      <rect x="0" y="44" width="240" height="166" rx="14" fill="#10192D" stroke="#3B526F"/>
+      <path d="M0 80H240" stroke="#2A3654"/>
+      <circle cx="18" cy="62" r="3" fill="#67E8F9"/><circle cx="30" cy="62" r="3" fill="#A78BFA"/><circle cx="42" cy="62" r="3" fill="#475779"/>
+      <path d="M31 103L17 117L31 131M65 103L79 117L65 131M55 99L41 135" stroke="#67E8F9" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <rect x="102" y="105" width="112" height="7" rx="3.5" fill="#A78BFA" fill-opacity="0.8"/>
+      <rect x="102" y="123" width="79" height="7" rx="3.5" fill="#334768"/>
+      <rect x="24" y="158" width="61" height="28" rx="7" fill="#17354A"/>
+      <rect x="95" y="158" width="61" height="28" rx="7" fill="#30264D"/>
+      <rect x="166" y="158" width="48" height="28" rx="7" fill="#202D47"/>
+      <circle cx="267" cy="200" r="25" fill="#192741" stroke="#67E8F9" stroke-opacity="0.6"/>
+      <path d="M257 200L264 207L278 193" stroke="#67E8F9" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="-17" cy="22" r="4" fill="#A78BFA"/><circle cx="295" cy="69" r="4" fill="#67E8F9"/>
+    </g>
   </g>
-
-  <g transform="translate(1035 67)">
-    <circle cx="0" cy="0" r="4" fill="#D99A36">
-      <animate attributeName="opacity" values="0.35;1;0.35" dur="2.8s" repeatCount="indefinite"/>
-    </circle>
-    <text x="16" y="5" fill="#777E89" font-family="Inter, 'Segoe UI', Arial, sans-serif" font-size="12" letter-spacing="1.2">OPEN TO WORK</text>
-  </g>
-
-  <line x1="878" y1="232" x2="1122" y2="232" stroke="#252931"/>
-  <line x1="878" y1="232" x2="970" y2="232" stroke="#D99A36" stroke-width="2">
-    <animate attributeName="x2" values="970;1122;970" dur="6s" repeatCount="indefinite"/>
-  </line>
+  <rect x="0.75" y="0.75" width="1198.5" height="358.5" rx="23.25" stroke="#2A3654" stroke-width="1.5"/>
 </svg>
