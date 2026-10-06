@@ -1,3 +1,5 @@
+<img src="./assets/interface-banner.svg" width="100%" alt="Ilustração de interfaces responsivas em desktop e celular, com grade de alinhamento, componentes e detalhes em azul." />
+
 # Samuel Santos Cerqueira
 
 **Desenvolvedor Front-End**

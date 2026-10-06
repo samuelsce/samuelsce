@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Composição visual de interfaces responsivas</title>
+  <desc id="desc">Layouts de desktop e celular desenhados sobre uma grade, com detalhes em azul, marcações de alinhamento e um cursor. Ilustração original para o perfil de Samuel.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#243047" stroke-opacity=".5"/></pattern>
+    <linearGradient id="surface" x1="0" y1="0" x2="960" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#0E1524"/><stop offset="1" stop-color="#151F33"/></linearGradient>
+    <clipPath id="frame"><rect width="960" height="220" rx="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="960" height="220" fill="url(#surface)"/>
+    <rect width="960" height="220" fill="url(#grid)"/>
+    <path d="M48 24V196M912 24V196" stroke="#5A83CB" stroke-opacity=".25" stroke-dasharray="3 5"/>
+    <g stroke="#8DB5FF" stroke-width="5" stroke-linecap="square" stroke-linejoin="miter">
+      <path d="M126 71L89 110L126 149M206 71L243 110L206 149M182 59L151 161"/>
+    </g>
+    <g transform="translate(316 27)">
+      <rect width="370" height="166" rx="8" fill="#10192A" stroke="#455A7C"/>
+      <path d="M0 26H370" stroke="#33425C"/>
+      <circle cx="14" cy="13" r="2.5" fill="#89AEED"/><circle cx="25" cy="13" r="2.5" fill="#536987"/><circle cx="36" cy="13" r="2.5" fill="#536987"/>
+      <rect x="18" y="43" width="64" height="105" rx="3" fill="#1B2940"/>
+      <path d="M31 58H68M31 72H58M31 86H63" stroke="#5B7398" stroke-width="3" stroke-linecap="round"/>
+      <rect x="98" y="43" width="254" height="37" rx="3" fill="#2456A6"/>
+      <path d="M112 57H211M112 67H172" stroke="#A7C8FF" stroke-width="3" stroke-linecap="round"/>
+      <rect x="98" y="94" width="75" height="54" rx="3" fill="#23354F"/>
+      <rect x="188" y="94" width="75" height="54" rx="3" fill="#23354F"/>
+      <rect x="278" y="94" width="74" height="54" rx="3" fill="#23354F"/>
+      <rect x="94" y="90" width="173" height="62" stroke="#8DB5FF"/>
+      <g fill="#0E1524" stroke="#8DB5FF"><rect x="91" y="87" width="6" height="6"/><rect x="264" y="87" width="6" height="6"/><rect x="91" y="149" width="6" height="6"/><rect x="264" y="149" width="6" height="6"/></g>
+      <path d="M243 128L249 155L256 148L266 160L272 155L262 144L272 140Z" fill="#E5EEFF" stroke="#10192A" stroke-width="2" stroke-linejoin="round"/>
+    </g>
+    <path d="M710 109H738M724 103L731 109L724 115" stroke="#647DA7" stroke-width="1.5"/>
+    <g transform="translate(767 27)">
+      <rect width="100" height="166" rx="13" fill="#10192A" stroke="#455A7C"/>
+      <rect x="36" y="8" width="28" height="3" rx="1.5" fill="#536987"/>
+      <rect x="11" y="26" width="78" height="37" rx="3" fill="#2456A6"/>
+      <path d="M21 40H70M21 50H50" stroke="#A7C8FF" stroke-width="3" stroke-linecap="round"/>
+      <rect x="11" y="73" width="78" height="31" rx="3" fill="#23354F"/>
+      <rect x="11" y="114" width="78" height="31" rx="3" fill="#23354F"/>
+      <rect x="37" y="154" width="26" height="3" rx="1.5" fill="#536987"/>
+    </g>
+    <path d="M316 207H686M316 203V211M686 203V211" stroke="#647DA7" stroke-opacity=".6"/>
+    <path d="M767 207H867M767 203V211M867 203V211" stroke="#647DA7" stroke-opacity=".6"/>
+  </g>
+  <rect x=".5" y=".5" width="959" height="219" rx="11.5" stroke="#2D3C57"/>
+</svg>
