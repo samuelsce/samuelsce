@@ -1,75 +1,78 @@
-<img src="./assets/interface-banner.svg" width="100%" alt="Ilustração de interfaces responsivas em desktop e celular, com grade de alinhamento, componentes e detalhes em azul." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-header-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-header.png" />
+  <img src="./assets/studio-header.png" width="100%" alt="Samuel Studio: samuel em letras grandes, fundo rosa claro e o mascote rosa do meu portfólio com seus anéis de planetinha." />
+</picture>
 
 # Samuel Santos Cerqueira
 
-**Desenvolvedor Front-End**
+**Desenvolvedor front-end em São Paulo, Brasil.**
 
-Atuo no desenvolvimento do **BarberAg**, uma plataforma SaaS de gestão e agendamento para barbearias. Trabalho com React, Next.js, TypeScript e Tailwind CSS na construção de interfaces, integração com APIs e evolução da experiência de uso.
+Transformo ideias em interfaces que dão vontade de usar. Gosto de unir código, interação e cuidado visual, e também exploro o que acontece por trás da tela, conectando interfaces a dados e serviços.
 
-Sou técnico em Desenvolvimento de Sistemas pela Etec de Mauá e graduando em Tecnologia da Informação pela UNIVESP. Estou aberto a oportunidades de estágio e desenvolvimento Front-End Júnior.
+Sou técnico em Desenvolvimento de Sistemas pela **Etec de Mauá** e curso o bacharelado em **Tecnologia da Informação na UNIVESP**. Estou aberto a oportunidades de estágio e desenvolvimento front-end júnior.
 
-[LinkedIn](https://www.linkedin.com/in/samuelsce/) · [E-mail](mailto:samuelsantosmft7@gmail.com) · [BarberAg](https://barberag.com.br/)
+[LinkedIn](https://www.linkedin.com/in/samuelsce/) &nbsp; / &nbsp; [E-mail](mailto:samuelsantosmft7@gmail.com) &nbsp; / &nbsp; [Meu portfólio](https://github.com/samuelsce/Portfolio)
 
-## Projeto principal
+## Na minha bancada
+
+<code>React</code> <code>TypeScript</code> <code>Next.js</code> <code>JavaScript</code> <code>Tailwind CSS</code> <code>HTML &amp; CSS</code> <code>Git</code>
+
+Nos projetos, também trabalho com **Three.js**, integração com **APIs REST**, componentes acessíveis e interfaces responsivas.
+
+## Ideias que saíram do papel
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-projects-dark.png" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-projects.png" />
+  <img src="./assets/studio-projects.png" width="100%" alt="Ilustrações dos projetos: agenda rosa do BarberAg, quarto isométrico do RoomLab e painel lilás do LinkWatch. As interfaces desenhadas são exemplos conceituais." />
+</picture>
 
 ### [BarberAg](https://barberag.com.br/)
 
-Plataforma de gestão para barbearias, com áreas para proprietários, profissionais e clientes. Reúne agendamento, organização da equipe, atendimento e acompanhamento da operação.
+Gestão e agendamento para barbearias, com agenda, organização da equipe e acompanhamento financeiro. Atuo no **front-end e na experiência de uso**, em colaboração com a equipe de back-end, em um produto em produção.
 
-Minha atuação está concentrada no **Front-End e na experiência de uso**, em colaboração com a equipe de back-end. Participo da definição dos fluxos, implementação das interfaces, integração com APIs REST e manutenção da aplicação em produção.
+Construo interfaces de agenda, dashboards, fluxos de autenticação e relatórios, com integração a APIs REST e exportação para Excel.
 
-Principais entregas:
+**Next.js 16, React 19, TypeScript, Tailwind CSS 4 e Base UI.**
 
-- Agenda, agendamento e reagendamento, encaixes, indisponibilidades e lista de espera.
-- Interfaces de comandas, caixa, comissões e histórico de movimentações financeiras.
-- Dashboards e relatórios com filtros, gráficos, comparações por período e exportação para Excel.
-- Fluxos de autenticação, recuperação de senha, onboarding e integração de assinaturas com o checkout Asaas.
-- Componentes reutilizáveis, layouts responsivos, modo escuro e melhorias de acessibilidade.
-- Tratamento de erros, otimização do carregamento de dados e testes automatizados do front-end.
-
-**Tecnologias:** Next.js, React, TypeScript, Tailwind CSS, APIs REST e ExcelJS.
-
-[Acessar o BarberAg](https://barberag.com.br/)
-
-## Outros projetos
+[Conhecer o produto](https://barberag.com.br/) · Código privado
 
 ### [RoomLab](https://github.com/samuelsce/RoomLab)
 
-Editor de quartos e setups com planta 2D e visualização 3D. Permite posicionar e personalizar móveis, desfazer alterações, salvar composições no navegador e compartilhar uma cópia por link. O projeto explora interação gráfica, gerenciamento de estado e persistência local.
+Editor de quartos e setups com planta **2D e visualização 3D**. Permite posicionar móveis, desfazer alterações, salvar composições no navegador e compartilhar uma cópia por link.
 
-**Tecnologias:** React, TypeScript, Three.js e Vite.
+**React, TypeScript e Three.js.**
 
-[Demo](https://samuelsce.github.io/RoomLab/) · [Código e documentação](https://github.com/samuelsce/RoomLab)
+[Experimentar o editor](https://samuelsce.github.io/RoomLab/) · [Ver código](https://github.com/samuelsce/RoomLab)
 
 ### [LinkWatch](https://github.com/samuelsce/LinkWatch)
 
-Monitor de disponibilidade para sites e APIs HTTP. Inclui painel de latência e disponibilidade, registro de incidentes e página pública de status. Um worker independente executa as verificações. O projeto está em desenvolvimento, com hospedagem e demonstração pública planejadas.
+Monitor de disponibilidade para sites e APIs HTTP, com latência, registro de incidentes e página pública de status. Um worker independente executa as verificações. A avaliação é local; a hospedagem e a demonstração pública ainda estão pendentes.
 
-**Tecnologias:** Next.js, TypeScript, Tailwind CSS, Node.js, PostgreSQL e Prisma.
+**Next.js, TypeScript, Node.js, PostgreSQL e Prisma.**
 
-[Código e documentação](https://github.com/samuelsce/LinkWatch)
+[Ver código e documentação](https://github.com/samuelsce/LinkWatch)
 
-### Recette
+### [Samuel Studio](https://github.com/samuelsce/Portfolio)
 
-Trabalho de Conclusão de Curso: uma plataforma web de receitas com recursos de inteligência artificial. Atuei principalmente no Front-End com HTML, CSS e JavaScript, com contribuições pontuais em Python e Django.
+Meu portfólio e espaço de experimentação. Uma bancada interativa, ilustrações dos projetos e um mascote que caminha, observa, reage ao arrasto e apronta pela página. Construído com **React, TypeScript, CSS e Web Animations API**, com movimento reduzido e navegação por teclado.
 
-[Repositório do projeto](https://github.com/Gab-sousa/recette-web)
+[Ver código do portfólio](https://github.com/samuelsce/Portfolio)
 
-### Estudos de JavaScript
+<details>
+  <summary><strong>Recette: meu primeiro projeto e TCC</strong></summary>
 
-- [Todo List Avançado](https://github.com/samuelsce/todo-list-avancado): edição de tarefas, filtros, pesquisa e persistência com LocalStorage. [Demo](https://samuelsce.github.io/todo-list-avancado/).
-- [Gerador de QR Code](https://github.com/samuelsce/gerador-qrcode): integração com API, eventos de teclado e feedback de carregamento. [Demo](https://samuelsce.github.io/gerador-qrcode/).
+Plataforma de receitas com geração por IA a partir dos ingredientes disponíveis, compartilhamento, favoritos e avaliações. Foi desenvolvida em equipe como Trabalho de Conclusão de Curso.
 
-## Tecnologias
+Atuei principalmente no front-end com **HTML, CSS e JavaScript**, com contribuições pontuais em **Python e Django**. É um registro do começo da minha trajetória e do que aprendi construindo em equipe.
 
-| Área | Tecnologias |
-| :--- | :--- |
-| Front-End | HTML, CSS, JavaScript, TypeScript, React, Next.js e Tailwind CSS |
-| Interfaces 3D | Three.js |
-| Integração e dados | APIs REST, Node.js, PostgreSQL, Prisma, Python e Django |
-| Testes | Vitest e Playwright |
-| Ferramentas | Git, GitHub, Figma, Vite e GitHub Actions |
+[Conhecer o Recette](https://github.com/Gab-sousa/recette-web)
 
-## Contato
+</details>
 
-Para oportunidades de trabalho ou colaboração, entre em contato pelo [LinkedIn](https://www.linkedin.com/in/samuelsce/) ou pelo e-mail [samuelsantosmft7@gmail.com](mailto:samuelsantosmft7@gmail.com).
+## Bora criar algo bom?
+
+Para conversar sobre um projeto ou uma oportunidade, me encontre no [LinkedIn](https://www.linkedin.com/in/samuelsce/) ou escreva para **[samuelsantosmft7@gmail.com](mailto:samuelsantosmft7@gmail.com)**.
+
+<sub>Feito com código, cuidado e rosa.</sub>
