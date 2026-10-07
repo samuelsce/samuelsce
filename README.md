@@ -75,4 +75,3 @@ Atuei principalmente no front-end com **HTML, CSS e JavaScript**, com contribui√
 
 Para conversar sobre um projeto ou uma oportunidade, me encontre no [LinkedIn](https://www.linkedin.com/in/samuelsce/) ou escreva para **[samuelsantosmft7@gmail.com](mailto:samuelsantosmft7@gmail.com)**.
 
-<sub>Feito com c√≥digo, cuidado e rosa.</sub>
