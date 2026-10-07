@@ -12,7 +12,7 @@ Transformo ideias em interfaces que dão vontade de usar. Gosto de unir código,
 
 Sou técnico em Desenvolvimento de Sistemas pela **Etec de Mauá** e curso o bacharelado em **Tecnologia da Informação na UNIVESP**. Estou aberto a oportunidades de estágio e desenvolvimento front-end júnior.
 
-[LinkedIn](https://www.linkedin.com/in/samuelsce/) &nbsp; / &nbsp; [E-mail](mailto:samuelsantosmft7@gmail.com) &nbsp; / &nbsp; [Meu portfólio](https://github.com/samuelsce/Portfolio)
+[LinkedIn](https://www.linkedin.com/in/samuelsce/) &nbsp; / &nbsp; [E-mail](mailto:samuelsantosmft7@gmail.com) &nbsp; / &nbsp; [Meu portfólio](https://samuelsce.dev)
 
 ## Na minha bancada
 
@@ -54,11 +54,11 @@ Monitor de disponibilidade para sites e APIs HTTP, com latência, registro de in
 
 [Ver código e documentação](https://github.com/samuelsce/LinkWatch)
 
-### [Samuel Studio](https://github.com/samuelsce/Portfolio)
+### [Samuel Studio](https://samuelsce.dev)
 
 Meu portfólio e espaço de experimentação. Uma bancada interativa, ilustrações dos projetos e um mascote que caminha, observa, reage ao arrasto e apronta pela página. Construído com **React, TypeScript, CSS e Web Animations API**, com movimento reduzido e navegação por teclado.
 
-[Ver código do portfólio](https://github.com/samuelsce/Portfolio)
+[Visitar o portfólio](https://samuelsce.dev) · [Ver código do portfólio](https://github.com/samuelsce/Portfolio)
 
 <details>
   <summary><strong>Recette: meu primeiro projeto e TCC</strong></summary>
