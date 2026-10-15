@@ -1,87 +1,61 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-header-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-header.png" />
-  <img src="./assets/studio-header.png" width="100%" alt="Samuel Santos, desenvolvedor full-stack: fundo rosa claro e o mascote do meu portfólio." />
-</picture>
-
 # Samuel Santos Cerqueira
 
-**Desenvolvedor full-stack júnior em Mauá, São Paulo.**
+**Segurança da Informação · Experiência em desenvolvimento web**
 
-Desenvolvo aplicações web com **React, Next.js, TypeScript e Node.js**, trabalhando com interfaces, APIs, autenticação e bancos de dados. Tenho experiência na manutenção de um produto em produção e construo projetos próprios para aprofundar meus conhecimentos em back-end, testes e segurança.
+Busco minha primeira oportunidade de estágio em Segurança da Informação. Atuo no desenvolvimento e na manutenção de aplicações web, incluindo o BarberAg, um SaaS utilizado por clientes reais.
 
-Sou técnico em Desenvolvimento de Sistemas pela **Etec de Mauá** e curso o bacharelado em **Tecnologia da Informação na UNIVESP**. Estou aberto a oportunidades de estágio e desenvolvimento full-stack júnior.
+Minha experiência envolve interfaces, integração com APIs, autenticação e bancos de dados. Estou direcionando essa base para segurança, com formação pelo Hackers do Bem, prática no TryHackMe e projetos próprios.
 
-[LinkedIn](https://www.linkedin.com/in/samuelsce/) &nbsp; / &nbsp; [E-mail](mailto:samuelsantosmft7@gmail.com) &nbsp; / &nbsp; [Meu portfólio](https://samuelsce.dev)
+[Portfólio](https://samuelsce.dev) · [LinkedIn](https://www.linkedin.com/in/samuelsce/) · [E-mail](mailto:samuelsantosmft7@gmail.com)
 
-## Tecnologias
+## Projetos selecionados
 
-- **Front-end:** React, Next.js, TypeScript, JavaScript, HTML, CSS, Tailwind CSS e Three.js.
-- **Back-end e dados:** Node.js, Fastify, APIs REST, PostgreSQL, SQL, Prisma, Drizzle ORM e Supabase.
-- **Testes e ferramentas:** Vitest, Playwright, Git, GitHub Actions e Docker.
+### [Sentinel](https://github.com/samuelsce/Sentinel) — laboratório de segurança
 
-Uso **ChatGPT e Codex** como apoio ao desenvolvimento, analisando o código gerado e validando as alterações com revisão e testes. Tenho inglês para leitura de documentação técnica.
+Projeto pessoal para ingestão e análise de eventos de autenticação e autorização. Integra uma aplicação web instrumentada, API, worker e dashboard, com regras de detecção, triagem auditada e timeline de evidências.
 
-## Projetos
+O repositório inclui sessões revogáveis, controle de acesso por papéis, proteção CSRF e testes automatizados com PostgreSQL e navegador. A demonstração é local, com dados fictícios e documentação para reproduzir os cenários.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-projects-dark.png" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-projects.png" />
-  <img src="./assets/studio-projects.png" width="100%" alt="Ilustrações dos projetos: agenda rosa do BarberAg, quarto isométrico do RoomLab e painel lilás do LinkWatch. As interfaces desenhadas são exemplos conceituais." />
-</picture>
+**TypeScript · Next.js · Node.js · Fastify · Python · PostgreSQL · Docker**
 
-### [BarberAg](https://barberag.com.br/)
+[Código](https://github.com/samuelsce/Sentinel) · [Demonstração documentada](https://github.com/samuelsce/Sentinel/blob/main/docs/WALKTHROUGH.md)
 
-Gestão e agendamento para barbearias, com agenda, organização da equipe e acompanhamento financeiro. Atuo no **front-end e na experiência de uso**, em colaboração com a equipe de back-end, em um produto em produção.
+### [BarberAg](https://barberag.com.br/) — SaaS em produção
 
-Construo interfaces de agenda, dashboards, fluxos de autenticação e relatórios, com integração a APIs REST e exportação para Excel.
+Aplicação de gestão e agendamento para barbearias. Desenvolvo e mantenho o frontend e a integração com APIs, em colaboração com a equipe de backend.
 
-**Next.js 16, React 19, TypeScript, Tailwind CSS 4 e Base UI.**
+Minha atuação inclui agenda, dashboards, interfaces financeiras, fluxos de autenticação e exportação de relatórios para Excel. O código do produto é privado.
 
-[Conhecer o produto](https://barberag.com.br/) · Código privado
+**Next.js · React · TypeScript · Tailwind CSS**
 
-### [RoomLab](https://github.com/samuelsce/RoomLab)
+[Site do produto](https://barberag.com.br/)
 
-Editor de quartos e setups com planta **2D e visualização 3D**. Permite posicionar móveis, desfazer alterações, salvar composições no navegador e compartilhar uma cópia por link.
+### [LinkWatch](https://github.com/samuelsce/LinkWatch) — monitoramento de sites e APIs
 
-**React, TypeScript e Three.js.**
+Aplicação web com worker independente, histórico de latência e incidentes. Inclui validação de URL, DNS e IP contra SSRF, isolamento entre contas e testes de integração e E2E.
 
-[Experimentar o editor](https://samuelsce.github.io/RoomLab/) · [Ver código](https://github.com/samuelsce/RoomLab)
+Projeto validado localmente; publicação e validação do OAuth real permanecem pendentes.
 
-### [LinkWatch](https://github.com/samuelsce/LinkWatch)
+**Next.js · TypeScript · Node.js · PostgreSQL · Prisma**
 
-Aplicação full-stack para monitorar sites e APIs HTTP, com painel, incidentes e página pública de status. Inclui worker independente, sessões, isolamento entre contas, persistência em PostgreSQL e testes unitários, de integração e E2E. A avaliação é local; hospedagem e demonstração pública estão pendentes.
+[Código](https://github.com/samuelsce/LinkWatch) · [Avaliação técnica](https://github.com/samuelsce/LinkWatch/blob/main/docs/AVALIACAO.md)
 
-**Next.js, TypeScript, Node.js, PostgreSQL e Prisma.**
+### Outros trabalhos
 
-[Ver código e documentação](https://github.com/samuelsce/LinkWatch)
+- **[Recette](https://github.com/Gab-sousa/recette-web):** plataforma de receitas desenvolvida em equipe como TCC. Atuei principalmente no frontend, com contribuições pontuais em Python e Django.
+- **[RoomLab](https://github.com/samuelsce/RoomLab):** editor de ambientes em 2D e 3D, construído com React, TypeScript e Three.js. [Demonstração](https://samuelsce.github.io/RoomLab/).
+- **[Portfólio](https://samuelsce.dev):** apresentação profissional em pixel art, com versões em português e inglês, navegação por teclado e controle de movimento. [Código](https://github.com/samuelsce/Portfolio).
 
-### [Sentinel](https://github.com/samuelsce/Sentinel)
+## Formação e estudos
 
-Central de monitoramento de segurança para aplicações web, **em desenvolvimento**. API, autenticação, ingestão transacional de eventos e SDK Node.js implementados, com permissões por papéis, validação de dados e testes com PostgreSQL real. Processamento do worker, detecções e dashboard estão planejados.
+- **Bacharelado em Tecnologia da Informação — UNIVESP:** em andamento, com conclusão prevista para 2029.
+- **Técnico em Desenvolvimento de Sistemas — Etec de Mauá:** concluído.
+- **Hackers do Bem:** formação em Segurança da Informação em andamento.
+- **[TryHackMe](https://tryhackme.com/p/samuelsce):** estudos e prática em cibersegurança.
 
-**Node.js, Fastify, TypeScript, PostgreSQL, Drizzle ORM e Docker.**
+## Base técnica
 
-[Ver código e documentação](https://github.com/samuelsce/Sentinel)
-
-### [Portfólio](https://samuelsce.dev)
-
-Portfólio com versões em português e inglês, bancada interativa, ilustrações dos projetos e um mascote que reage às interações pela página. Construído com **React, TypeScript, CSS e Web Animations API**, com movimento reduzido e navegação por teclado.
-
-[Visitar o portfólio](https://samuelsce.dev) · [Ver código do portfólio](https://github.com/samuelsce/Portfolio)
-
-<details>
-  <summary><strong>Recette: meu primeiro projeto e TCC</strong></summary>
-
-Plataforma de receitas com geração por IA a partir dos ingredientes disponíveis, compartilhamento, favoritos e avaliações. Foi desenvolvida em equipe como Trabalho de Conclusão de Curso.
-
-Atuei principalmente no front-end com **HTML, CSS e JavaScript**, com contribuições pontuais em **Python e Django**. É um registro do começo da minha trajetória e do que aprendi construindo em equipe.
-
-[Conhecer o Recette](https://github.com/Gab-sousa/recette-web)
-
-</details>
-
-## Contato
-
-Para conversar sobre um projeto ou uma oportunidade, me encontre no [LinkedIn](https://www.linkedin.com/in/samuelsce/) ou escreva para **[samuelsantosmft7@gmail.com](mailto:samuelsantosmft7@gmail.com)**.
+- **Sistemas:** conhecimentos em hardware, software e Windows.
+- **Desenvolvimento:** JavaScript, TypeScript, React, Next.js, Node.js, APIs REST e PostgreSQL.
+- **Prática nos projetos:** autenticação, autorização, sessões, proteção CSRF/SSRF, Git, Docker e testes automatizados.
 
